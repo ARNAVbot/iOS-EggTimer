@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # Egg Timer
 
@@ -18,10 +18,9 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 * Conditional statements - Switch
 * Functions with outputs
 * How to use the ProgressView
+* Swift Dictionaries
+* Swift optionals
 
+To refer to the videos , go here -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16252786#overview (Videos 80-94)
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
 
